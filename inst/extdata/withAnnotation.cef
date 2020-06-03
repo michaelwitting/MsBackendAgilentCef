@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CEF version="1.0.0.0">
+  <CompoundList instrumentConfiguration="">
+    <Compound mppid="1" algo="FindByMolecularFeature">
+      <Location m="825.52832" rt="12.893" y="244976240" dt="37.4471664428711" ccs="289.821533203125" />
+      <CompoundScores>
+        <CpdScore algo="mfe" score="93.7" />
+      </CompoundScores>
+      <Results>
+        <Molecule formula="C49 H65 N10 O2" />
+      </Results>
+      <Spectrum type="MFE" cpdAlgo="FindByMolecularFeature">
+        <MSDetails p="+" />
+        <Device type="QuadrupoleTimeOfFlight" />
+        <MSPeaks>
+          <p x="826.53560" y="244976240.00" z="1" s="M+H" />
+          <p x="827.53948" y="148120640.00" z="1" s="M+H+1" />
+          <p x="828.54379" y="42459704.00" z="1" s="M+H+2" />
+          <p x="829.54760" y="7862559.50" z="1" s="M+H+3" />
+        </MSPeaks>
+      </Spectrum>
+    </Compound>
+    <Compound mppid="2" algo="FindByMolecularFeature">
+      <Location m="521.34653" rt="6.317" y="217802048" dt="29.8594932556152" ccs="233.353897094727" />
+      <CompoundScores>
+        <CpdScore algo="mfe" score="93.7" />
+      </CompoundScores>
+      <Results>
+        <Molecule name="18:1 Lyso PC" formula="C26 H52 N O7 P">
+          <Database>
+            <Accession db="CAS ID" id="19420-56-5" />
+          </Database>
+        </Molecule>
+      </Results>
+      <Spectrum type="MFE" cpdAlgo="FindByMolecularFeature">
+        <MSDetails p="+" />
+        <Device type="QuadrupoleTimeOfFlight" />
+        <MSPeaks>
+          <p x="522.35380" y="217802048.00" z="1" s="M+H" />
+          <p x="523.35762" y="72250552.00" z="1" s="M+H+1" />
+          <p x="524.36069" y="12046152.00" z="1" s="M+H+2" />
+          <p x="525.36301" y="1452010.50" z="1" s="M+H+3" />
+        </MSPeaks>
+      </Spectrum>
+    </Compound>
+    <Compound mppid="3" algo="FindByMolecularFeature">
+      <Location m="803.54744" rt="14.028" y="171519984" dt="37.2785911560059" ccs="288.647338867188" />
+      <CompoundScores>
+        <CpdScore algo="mfe" score="98.5" />
+      </CompoundScores>
+      <Results>
+        <Molecule formula="C51 H71 N4 O4" />
+      </Results>
+      <Spectrum type="MFE" cpdAlgo="FindByMolecularFeature">
+        <MSDetails p="+" />
+        <Device type="QuadrupoleTimeOfFlight" />
+        <MSPeaks>
+          <p x="804.55471" y="171519984.00" z="1" s="M+H" />
+          <p x="805.55807" y="94406520.00" z="1" s="M+H+1" />
+          <p x="806.56143" y="24059210.00" z="1" s="M+H+2" />
+          <p x="807.56533" y="4391531.50" z="1" s="M+H+3" />
+        </MSPeaks>
+      </Spectrum>
+    </Compound>
+    <Compound mppid="4" algo="FindByMolecularFeature">
+      <Location m="805.56071" rt="14.955" y="169309664" dt="37.6252784729004" ccs="291.316680908203" />
+      <CompoundScores>
+        <CpdScore algo="mfe" score="100.0" />
+      </CompoundScores>
+      <Results>
+        <Molecule formula="C49 H71 N7 O3" />
+      </Results>
+      <Spectrum type="MFE" cpdAlgo="FindByMolecularFeature">
+        <MSDetails p="+" />
+        <Device type="QuadrupoleTimeOfFlight" />
+        <MSPeaks>
+          <p x="806.56799" y="169309664.00" z="1" s="M+H" />
+          <p x="807.57214" y="95818168.00" z="1" s="M+H+1" />
+          <p x="808.57813" y="23969172.00" z="1" s="M+H+2" />
+          <p x="809.58128" y="4046071.00" z="1" s="M+H+3" />
+        </MSPeaks>
+      </Spectrum>
+    </Compound>
+    <Compound mppid="5" algo="FindByMolecularFeature">
+      <Location m="541.31590" rt="3.126" y="166987488" dt="29.5588264465332" ccs="230.790725708008" />
+      <CompoundScores>
+        <CpdScore algo="mfe" score="93.7" />
+      </CompoundScores>
+      <Results>
+        <Molecule formula="C31 H39 N7 O2" />
+      </Results>
+      <Spectrum type="MFE" cpdAlgo="FindByMolecularFeature">
+        <MSDetails p="+" />
+        <Device type="QuadrupoleTimeOfFlight" />
+        <MSPeaks>
+          <p x="542.32318" y="166987488.00" z="1" s="M+H" />
+          <p x="543.32692" y="69762768.00" z="1" s="M+H+1" />
+          <p x="544.33044" y="13131934.00" z="1" s="M+H+2" />
+          <p x="545.33386" y="1635861.25" z="1" s="M+H+3" />
+        </MSPeaks>
+      </Spectrum>
+    </Compound>
+  </CompoundList>
+</CEF>
